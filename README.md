@@ -12,4 +12,4 @@ Full Website :
 
 Responsive :
 
-![](//ss/responsive-screen.gif)
+![](/ss/responsive-screen.gif)
